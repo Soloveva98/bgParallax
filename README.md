@@ -17,6 +17,7 @@
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" />
 </a>
 
+<p>JavaScript, HTML5, CSS3, SCSS</p>
 ---
 ![](/cardsHover.gif)
 
