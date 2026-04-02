@@ -20,4 +20,4 @@
 <p>JavaScript, HTML5, CSS3, SCSS</p>
 
 ---
-
+![](/home.gif)
